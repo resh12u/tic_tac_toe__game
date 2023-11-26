@@ -25,7 +25,7 @@ To run this game locally:
 
 ## Preview
 
-![Tic Tac Toe Game Preview](screenshot.png)
+https://hello1-app.tiiny.site
 
 ## File Structure
 
